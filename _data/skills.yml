@@ -1,8 +1,4 @@
 # Skills
-# Organizational leadership
-- skill: I work with the team to achieve the goal
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
 # Communications strategy
 - skill: Proficiency in many languages like C,C++,Javascript & D.S.A
   description: Content and marketing strategy,
@@ -10,3 +6,10 @@
 # Digital content development and creation
 - skill: M.E.R.N stack
   description: Web-Development
+
+# Organizational leadership
+- skill: I work with the team to achieve the goal
+  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+
+
+
