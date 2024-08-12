@@ -1,5 +1,6 @@
 # Site settings
 title: "Animesh Rawat Resume"
+description: "A resume"
 
 # Build settings
 markdown: kramdown
@@ -38,7 +39,7 @@ resume_section_skills:          true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
-  #resume_social_links:
+#resume_social_links:
   resume_github_url:            "https://github.com/nissu99" 
   resume_twitter_url:           "https://x.com/Animesh16667188"
   # resume_facebook_url:          "insert Facebook URL here"
