@@ -17,7 +17,7 @@ resume_contact_email:           "Animeshrwt77@gmail.com"
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "7906194157"
 resume_contact_address:         "Clement Town,Dehradun"
-
+resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 #resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
 # use "yes" to display the email contact button,
